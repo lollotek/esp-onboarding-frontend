@@ -1,0 +1,25 @@
+{
+  "OnBoarding": [
+    {
+      "title": "Benvenuto",
+      "Description": "Seleziona la rete del tuo device, oppure scansiona il qr code per entrare nella rete del device"
+    },
+    {
+      "title": "Ricerca device ..",
+      "Description": "Sto verificando la connessione con il device .."
+    },
+    {
+      "title": "Imposta la tua rete corrente",
+      "Description": "Selezione la rete a cui connettere il tuo device",
+      "OnError": "Qualcosa è andato storto, ricontrolla i dati immessi"
+    },
+    {
+      "title": "Connessione in corso ..",
+      "Description": "Il device sta provando a collegarsi alla rete indicata"
+    },
+    {
+      "title": "Tutto pronto!",
+      "Description": "Complimenti, il tuo device è connesso correttamente!\nRicodati di connetterti alla tua rete di casa"
+    }
+  ]
+}
